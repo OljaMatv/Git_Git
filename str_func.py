@@ -5,3 +5,7 @@ def capitalize_all_letters(str):
 def capitalize_first_letters(str):
     """Capitalizes the first letter of each word in the input string!!!"""
     return str.title()
+
+def capitalize_first_letters(str):
+    """Capitalizes the first letter of each word in the input string!!!"""
+    return str.title()
